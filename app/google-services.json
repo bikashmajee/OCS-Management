@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "673546864535",
+    "firebase_url": "https://ocs-management.firebaseio.com",
+    "project_id": "ocs-management",
+    "storage_bucket": "ocs-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673546864535:android:2964bf4190afb13df026d2",
+        "android_client_info": {
+          "package_name": "com.example.ocsmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673546864535-2n3qg1oig9trv4hnpa8uto2sn0sefgsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ocsmanagement",
+            "certificate_hash": "eef14258175915d24cb3d6c72a87b205206673dd"
+          }
+        },
+        {
+          "client_id": "673546864535-1sjb9koctvlv8sk6o3hldv8657ffeulm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2l4hBJP5H_LygN_P1T3xhlSOXTUT4jKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673546864535-1sjb9koctvlv8sk6o3hldv8657ffeulm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
